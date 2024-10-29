@@ -19,6 +19,8 @@
 
 - **Web App for Parkinson's Disease Prediction:**  [Repo](https://github.com/Bhagy3sh/parkinsons_app)  [Web App](https://parkinsons.pythonanywhere.com/)
 - **Web App to predict remaining capacity of Lithium Ion Battery:** [Repo](https://github.com/Bhagy3sh/Battery-Capacity-Prediction-Using-Regression) [Web App](https://capacity.pythonanywhere.com/)
+- **Discord Bot to send speific global messages in Minecraft Bedrock Servers:** [Repo](https://github.com/Bhagy3sh/recruit-bot)
+- **Discord Bot to send global messages from discord and fetch list of online server members in Minecraft Bedrock Edition:** [Repo](https://github.com/Bhagy3sh/minecraft-server-remote-message-sender)
 
 
 
