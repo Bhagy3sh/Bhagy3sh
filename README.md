@@ -14,7 +14,11 @@
 <img src="https://github.com/user-attachments/assets/1019a109-4e42-4509-ac83-58a8f9278e7e" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/444d7fb3-2da7-4db8-a182-aee8b683a1cc" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/f51e1fef-94b9-43c6-9e8b-90e99e6cdf22" width="100" height="100">
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width="100" height="100">
+<img width="100" height="100" src="https://github.com/user-attachments/assets/13ec6842-4653-4c3d-895f-98ec60dbfcb6" />
+<img width="115" height="115" alt="image" src="https://github.com/user-attachments/assets/5851f1b7-06b7-4d3f-a971-36fa07d40b8c" />
+
+
+
 
 
 
