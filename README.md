@@ -9,12 +9,14 @@
 ### Languages:
 
 <img src="https://github.com/user-attachments/assets/59d4e42a-a629-4bfa-8cc0-48ee58931430" width="100" height="100">
-<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/1a99840d-12c8-49f7-ad22-3ecbcd90bf19" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/dd130db3-10c0-44d6-ab71-781e44c38295" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/1019a109-4e42-4509-ac83-58a8f9278e7e" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/444d7fb3-2da7-4db8-a182-aee8b683a1cc" width="100" height="100">
 <img src="https://github.com/user-attachments/assets/f51e1fef-94b9-43c6-9e8b-90e99e6cdf22" width="100" height="100">
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/programming%20languages/java.svg" width="100" height="100">
+
+
 
 ### Current Projects:
 
